@@ -21,6 +21,17 @@ Usage Guide
 ^^^^^^^^^^^^^
 Run the program please. Pretty please.
 
+^^^^^^^^^^^^^
+Components
+^^^^^^^^^^^^^
+- Database: PSQL Server that runs.
+- Database Connector: Python script that connects the PSQL server to the rest of the backend.
+- Location Manager: Python script that interfaces with the Location API to pull map data and push it to the frontend.
+- User Manager: Python script that manages distributing and storing updates to users.
+- Chatroom Manager: Python script that manages distributing and storing updates to chatrooms.
+- User Validator: Python script that ensures users have permissions to access any particular resources (chatrooms, profiles, etc.)
+
+
 .. _frontend:
 Frontend
 --------
@@ -64,3 +75,12 @@ Build Instructions
 1. Pull this repository and open it with your preferred Code Editor
 2. Run ``cd frontend`` in the terminal.
 3. Run ``flutter build`` in the terminal to compile app.
+
+
+.. _goals:
+Developer Goals
+---------------
+Scope of the project is to produce an application (and accompanying backend) that covers all possible User and System requirements as listed in Coursework Item 1.
+
+
+

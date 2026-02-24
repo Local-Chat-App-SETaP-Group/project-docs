@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+SETaP 7B Untitled Project Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Untitled Project** is a novel Instant Messenger app that prioritises local connection through location-separated chatrooms.
 
 .. note::
 
@@ -19,4 +13,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   development

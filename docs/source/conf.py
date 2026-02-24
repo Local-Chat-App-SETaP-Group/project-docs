@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Untitled SETaP Project'
+copyright = 'None'
+author = 'Team 7B'
 
 release = '0.1'
 version = '0.1.0'

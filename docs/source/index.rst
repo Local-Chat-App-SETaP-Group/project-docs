@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
+   user_guide
    development

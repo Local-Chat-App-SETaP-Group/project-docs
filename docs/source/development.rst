@@ -25,8 +25,9 @@ Run the program please. Pretty please.
 Frontend
 --------
 
-App development, developed by [WILL DECIDE LATER]
-Technologies are currently Dart and Flutter, as well as Android Studio Goes in /frontend/
+App development, developed by **[WILL DECIDE LATER]**
+
+Technologies are currently Dart and Flutter, as well as Android Studio Goes in ``/frontend/``
 
 ^^^^^^^^^^^^^
 Prerequisites
@@ -48,10 +49,12 @@ Test Instructions
 ^^^^^^^^^^^^^
 
 1. Pull this repository and open it with your preferred Code Editor
-2. Run cd frontend in the terminal.
+2. Run ``cd frontend`` in the terminal.
 3. Setup your device:
-- Run ``flutter emulators --launch [Emulator_Name]`` to launch your Android Emulator
-- Run ``???`` to connect to your actual phone.
+
+* Run ``flutter emulators --launch [Emulator_Name]`` to launch your Android Emulator
+* Run ``???`` to connect to your actual phone.
+
 4. Run ``flutter run`` in the terminal to open your Android Emulator/Device and run the app.
 
 ^^^^^^^^^^^^^

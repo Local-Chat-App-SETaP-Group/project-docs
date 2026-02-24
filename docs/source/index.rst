@@ -5,7 +5,7 @@ SETaP 7B Untitled Project Documentation
 
 .. note::
 
-   This project is under active development.
+   ``This project is under active development.``
 
 Contents
 --------
